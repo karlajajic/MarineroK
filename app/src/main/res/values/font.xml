@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ciytName">
+        <item name="android:fontFamily">@font/pacifico</item>
+        <item name="android:textSize">18sp</item> //sp scales to users preferences
+        <item name="android:textColor">@color/secondaryColor</item>
+    </style>
+    <style name="ciytNameDark">
+        <item name="android:fontFamily">@font/pacifico</item>
+        <item name="android:textSize">18sp</item> //sp scales to users preferences
+    </style>
+    <style name="regularText">
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:textSize">12sp</item> //sp scales to users preferences
+    </style>
+    <style name="title">
+        <item name="android:fontFamily">@font/pacifico</item>
+        <item name="android:textSize">18sp</item> //sp scales to users preferences
+    </style>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marinero</string>
+
+    <string name="intro_sign_eror">Došlo je do problema, pokušajte kasnije</string>
+
+    <string name="menu_home">Početna</string>
+    <string name="menu_towns">Gradovi</string>
+    <string name="menu_share">Dijeli</string>
+    <string name="menu_settings">Postavke</string>
+    <string name="menu_about">O aplikaciji</string>
+    <string name="menu_personal">Osobno</string>
+    <string name="menu_logout">Odjavi se</string>
+    <string name="menu_general">Općenito</string>
+
+    <string name="like_town">Ovaj grad je dodan u tvoje favorite!</string>
+
+    <string name="title_activity_city_detail">O gradu</string>
+    <string name="city_tab_text_1">Opis</string>
+    <string name="city_tab_text_2">Osvrti</string>
+    <string name="city_tab_text_3">Sunce</string>
+
+    <string name="review_list_error">Nema komentara za ovo mjesto.</string>
+    <string name="review_add">Komentar je uspješno dodan</string>
+
+    <string name="error">Nešto je pošlo po krivom :(</string>
+    <string name="settings_changed">Postavke su promjenjene</string>
+
+    <string name="email">Email adresa: </string>
+    <string name="send_text">Poruka koju želiš poslati: </string>
+
+    <string name="about">Marinero is an application developed for AND course on VIA University Collage. The app was mostly made during quaranteen of 2020. The soul inspiration for the application was to feel a sense of home for the developer of the app.
+Developer was born and raised in sunny Daltmatian town, Split. Since Split is only one of many beautiful towns on Dalmatian coust, developer decided to make an app to help promote the beauty of the Dalmatia as a whole.
+It was also very important for the developer to make her grandpa proud of her developer skills 😊
+
+Thank you for using the app,
+Karlich (developer)
+</string>
+
+</resources>

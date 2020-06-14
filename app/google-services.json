@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688128434082",
+    "firebase_url": "https://marinero-0706.firebaseio.com",
+    "project_id": "marinero-0706",
+    "storage_bucket": "marinero-0706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688128434082:android:fd708ab1ccd124c310dcfb",
+        "android_client_info": {
+          "package_name": "com.example.marinero_kj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688128434082-4u9p5s6uromh3u80fos3t97sh70qsu4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marinero_kj",
+            "certificate_hash": "b990a6f1d10fa60e10cd84d9cc6c05d5860fa505"
+          }
+        },
+        {
+          "client_id": "688128434082-8hr3kdf700re205ticmjd6r3faimti3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYVnwXVZ-Cj6LInrVfb6iZEseDCAGaX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688128434082-8hr3kdf700re205ticmjd6r3faimti3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

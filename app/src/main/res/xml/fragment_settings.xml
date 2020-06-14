@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <PreferenceCategory
+        android:key="map_category"
+        android:title="Map">
+
+        <SwitchPreferenceCompat
+            android:key="markers"
+            android:title="Show markers on the map"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="git_category"
+        android:title="Git Repository">
+
+        <Preference
+            android:key="feedback"
+            android:summary="Report technical issues or suggest new features"
+            android:title="Send feedback"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

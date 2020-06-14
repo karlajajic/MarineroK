@@ -1,0 +1,16 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <color name="primaryColor">#bbdefb</color>
+    <color name="primaryLightColor">#eeffff</color>
+    <color name="primaryDarkColor">#8aacc8</color>
+    <color name="secondaryColor">#29b6f6</color>
+    <color name="secondaryLightColor">#73e8ff</color>
+    <color name="secondaryDarkColor">#0086c3</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="sightBackground">#fafffe</color>
+    <color name="reviewBackground">#e8eaf6</color>
+</resources>
+
+<!--Material design tools
+https://material.io/resources/color/#!/?view.left=0&view.right=0&secondary.color=29B6F6&primary.color=BBDEFB&primary.text.color=000000&secondary.text.color=000000-->
